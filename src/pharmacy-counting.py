@@ -1,5 +1,5 @@
 file_in=open("input/itcont.txt","r") # read file input
-file_out=open("insight_testsuite/tests/test_1/output/top_cost_drug1.txt","w") # write file output
+file_out=open("insight_testsuite/tests/test_1/output/top_cost_drug.txt","w") # write file output
 
 drugs={}# drugs store drug_name, num_prescriber, total_cost
 
